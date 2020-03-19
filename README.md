@@ -39,3 +39,6 @@
 
       cd /Users/naofumi-fujii/workspace/strapi/my-project
       yarn develop
+      
+## setup
+git clone && yarn
