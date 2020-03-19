@@ -2,7 +2,6 @@
 
 A quick description of your strapi application
 commit 82fd2c78f50928a12218e8bdeb86cd5ae528cb6b
-Author: naofumi-fujii <naofumi.fujii@gmail.com>
 Date:   Thu Mar 19 14:20:05 2020 +0900
 
     init
